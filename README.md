@@ -151,6 +151,8 @@ phoenix/                             # Proyecto principal de la app
 │   │   ├── SplashScreen.kt
 │   │   ├── SuccessScreen.kt
 │   │   └── TechnicalScreen.kt
+│   └──MainActivity
+└───PhoenixApp
 ```
 
 ---
